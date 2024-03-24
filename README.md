@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/ViniciosB">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciosB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciosB&layout=compact&theme=dracula"/>
+     <img height="200em" src="ttps://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViniciosB&layout=compact&theme=dracula"/>
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViniciosB)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
