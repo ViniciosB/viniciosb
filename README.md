@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
     
 </div>
-    
+    ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciosB&layout=compact&theme=dracula)
    ##
    
 <div style="display: inline_block"><br>
