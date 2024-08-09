@@ -1,4 +1,4 @@
-## Oiii eu sou a Vinicios Barbosa
+## Oiii eu sou o Vinicios Barbosa
 
 <!--
 **viniciosb/viniciosb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
